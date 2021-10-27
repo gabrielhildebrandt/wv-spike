@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wb-spike",
+    "slug": "wb-spike",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wb-spike"
+}
